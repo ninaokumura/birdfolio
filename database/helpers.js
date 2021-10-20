@@ -2,7 +2,7 @@ const path = require('path')
 const fs = require('fs')
 const express = require('express')
 
-const filePath = path.join(__dirname, 'database', 'birds.json')
+const filePath = path.join(__dirname, 'birds.json')
 
 function getAllBirds(cb) {
   fs.readFile(filePath, (err, data) => {
@@ -22,4 +22,4 @@ function getBirdById(id, cb) {
   })
 }
 
-module.export = helpers
+module.exports = { getAllBirds, getBirdById }

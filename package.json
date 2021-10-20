@@ -16,5 +16,8 @@
     "eslint": "^7.32.0",
     "eslint-config-eda": "^0.1.4",
     "nodemon": "^2.0.14"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }

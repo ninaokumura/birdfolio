@@ -4,41 +4,41 @@
       "id": 1,
       "image": "/images/goldfinch.jpg",
       "name": "European Goldfinch",
-      "favoriteFoods": ["insects", "seeds"]
+      "favoriteFood": ["insects", "seeds"]
     },
 
     {
       "id": 2,
       "image": "/images/kereru.jpg",
       "name": "Kereru",
-      "favoriteFoods": ["berries"]
+      "favoriteFood": ["berries"]
     },
     {
       "id": 3,
       "image": "/images/tui.jpg",
       "name": "Tui",
-      "favoriteFoods": ["fruits", "nectar"]
+      "favoriteFood": ["fruits", "nectar"]
     },
 
     {
       "id": 4,
       "image": "/images/welcome-swallow.jpg",
       "name": "Silvereye",
-      "favoriteFoods": ["seeds", "small fruits"]
+      "favoriteFood": ["seeds", "small fruits"]
     },
 
     {
       "id": 5,
       "image": "/images/shag.jpg",
       "name": "Shag",
-      "favoriteFoods": ["small fish"]
+      "favoriteFood": ["small fish"]
     },
 
     {
       "id": 6,
       "image": "/images/flamingo.jpg",
       "name": "Flamingo",
-      "favoriteFoods": ["small fish"]
+      "favoriteFood": ["small fish"]
     }
   ]
 }

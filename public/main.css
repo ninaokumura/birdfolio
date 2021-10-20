@@ -9,6 +9,11 @@ html {
   color: whitesmoke;
 }
 
+h2 {
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+
 body {
   background-color: rebeccapurple;
 }
@@ -34,6 +39,11 @@ body {
   /* border: 2px solid red; */
   padding: 2rem;
 }
+
+.bird {
+  display: grid;
+  place-items: center;
+}
 /* .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -41,7 +51,8 @@ body {
 
 .nav {
   color: whitesmoke;
-  font-size: 5rem;
+  font-size: 3rem;
+  margin-bottom: 2rem;
   text-decoration: none;
   display: flex;
   align-items: center;

@@ -1,3 +1,3 @@
 # Birdfolio
 
-New Zealand birds gallery.
+Birds gallery.

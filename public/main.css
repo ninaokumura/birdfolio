@@ -6,12 +6,29 @@
 
 html {
   font-size: 62.5%;
+  color: whitesmoke;
 }
 
 body {
   background-color: rebeccapurple;
 }
 
+.title {
+  text-align: center;
+  padding: 2rem;
+  font-size: 10rem;
+}
+
 .bird-image {
-  width: 25rem;
+  width: 5rem;
+  height: 5rem;
+}
+
+.nav {
+  color: whitesmoke;
+  font-size: 5rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

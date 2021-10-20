@@ -2,27 +2,27 @@
   "birds": [
     {
       "id": 1,
-      "image": "/images/song-thrush.jpg",
-      "name": "Song Thrush",
-      "favoriteFoods": ["insects"]
+      "image": "/images/goldfinch.jpg",
+      "name": "European Goldfinch",
+      "favoriteFoods": ["insects", "seeds"]
     },
 
     {
       "id": 2,
-      "image": "/images/piwakawaka.jpg",
-      "name": "Piwakawaka",
-      "favoriteFoods": ["seeds", "insects"]
+      "image": "/images/kereru.jpg",
+      "name": "Kereru",
+      "favoriteFoods": ["berries"]
     },
     {
       "id": 3,
-      "image": "/images/tieke.jpg",
-      "name": "Tieke",
+      "image": "/images/tui.jpg",
+      "name": "Tui",
       "favoriteFoods": ["fruits", "nectar"]
     },
 
     {
       "id": 4,
-      "image": "/images/silvereye.jpg",
+      "image": "/images/welcome-swallow.jpg",
       "name": "Silvereye",
       "favoriteFoods": ["seeds", "small fruits"]
     }

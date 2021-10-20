@@ -2,29 +2,29 @@
   "birds": [
     {
       "id": 1,
-      "image": "",
-      "commonName": "Tui",
-      "favoriteFoods": ["flax", "kowhai"]
+      "image": "/images/song-thrush.jpg",
+      "name": "Song Thrush",
+      "favoriteFoods": ["insects"]
     },
 
     {
       "id": 2,
-      "image": "",
-      "commonName": "Piwakawaka",
+      "image": "/images/piwakawaka.jpg",
+      "name": "Piwakawaka",
       "favoriteFoods": ["seeds", "insects"]
     },
     {
       "id": 3,
-      "image": "",
-      "commonName": "Kereru",
-      "favoriteFoods": ["berries"]
+      "image": "/images/tieke.jpg",
+      "name": "Tieke",
+      "favoriteFoods": ["fruits", "nectar"]
     },
 
     {
       "id": 4,
-      "image": "",
-      "commonName": "Kea",
-      "favoriteFoods": ["everything", "literally"]
+      "image": "/images/silvereye.jpg",
+      "name": "Silvereye",
+      "favoriteFoods": ["seeds", "small fruits"]
     }
   ]
 }

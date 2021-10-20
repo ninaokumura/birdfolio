@@ -12,6 +12,15 @@ router.get('/', (req, res) => {
   })
 })
 
-// const filePath = path.join(__dirname, 'database', 'birds.json')
-
+const filePath = path.join(__dirname, 'database', 'birds.json')
+function getAllBirds(cb) {
+  fs.readFile(filePath, (err, data) => {
+    if (err) {
+      console.error('Failed to read file: ', err.message)
+      return
+    }
+    const birdsData = JSON.parse(data)
+    cb(birdsData.birds)
+  })
+}
 module.exports = router

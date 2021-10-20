@@ -1,11 +1,13 @@
 <div class='container'>
   {{#each birds}}
     <div class='bird-list'>
+      {{! <div class='grid-container'> }}
       <a href='/birds/{{id}}'><img
           class='bird-img'
           src='{{image}}'
           alt='{{name}}'
         /></a>
     </div>
+    {{! </div> }}
   {{/each}}
 </div>

@@ -13,16 +13,31 @@ body {
   background-color: rebeccapurple;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+}
+
 .title {
   text-align: center;
   padding: 2rem;
   font-size: 10rem;
 }
 
-.bird-image {
-  width: 5rem;
-  height: 5rem;
+.bird-img {
+  width: 30rem;
+  /* height: 20rem; */
+  border-radius: 2rem;
 }
+.bird-list {
+  /* border: 2px solid red; */
+  padding: 2rem;
+}
+/* .grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} */
 
 .nav {
   color: whitesmoke;

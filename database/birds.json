@@ -25,6 +25,20 @@
       "image": "/images/welcome-swallow.jpg",
       "name": "Silvereye",
       "favoriteFoods": ["seeds", "small fruits"]
+    },
+
+    {
+      "id": 5,
+      "image": "/images/shag.jpg",
+      "name": "Shag",
+      "favoriteFoods": ["small fish"]
+    },
+
+    {
+      "id": 6,
+      "image": "/images/flamingo.jpg",
+      "name": "Flamingo",
+      "favoriteFoods": ["small fish"]
     }
   ]
 }

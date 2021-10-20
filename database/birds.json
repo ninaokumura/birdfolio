@@ -1,1 +1,30 @@
-{}
+{
+  "birds": [
+    {
+      "id": 1,
+      "image": "",
+      "commonName": "Tui",
+      "favoriteFoods": ["flax", "kowhai"]
+    },
+
+    {
+      "id": 2,
+      "image": "",
+      "commonName": "Piwakawaka",
+      "favoriteFoods": ["seeds", "insects"]
+    },
+    {
+      "id": 3,
+      "image": "",
+      "commonName": "Kereru",
+      "favoriteFoods": ["berries"]
+    },
+
+    {
+      "id": 4,
+      "image": "",
+      "commonName": "Kea",
+      "favoriteFoods": ["everything", "literally"]
+    }
+  ]
+}
